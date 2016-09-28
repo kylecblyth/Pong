@@ -1,0 +1,7 @@
+Version 1.1
+	- ball return angle now depends on where it hits the paddle
+		- ball spawning with a vertical velocity of zero is no longer a bug
+	- fixed ball going through paddle at high speeds
+	- ball x speed now only increases between points, not each hit
+Version 1.0
+	initial release
